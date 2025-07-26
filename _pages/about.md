@@ -1,48 +1,49 @@
 ---
 permalink: /
-title: "Weicong Qin"
+title: "Guofu Xie"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-*"A ship in harbor is safe, but that is not what ships are built for."* -Grace Hopper
 
 
-He is currently a second-year master's student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [IIR lab](https://ruc-iir-lab.github.io/). His supervisor is AP. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about AI for Legal Domain, LLMs, Recommender System, Information Retrieval, etc.
+He is currently a first-year Ph.D. student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [IIR lab](https://ruc-iir-lab.github.io/). His supervisor is AP. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about Large Language Models, Reinforcement Learning (especially Multi-Objective RL), Controllable Generation, Model Merging etc.
 
 Education
 =========
 
-- *09.2023-present* Master's Candidate, Gaoling School of Artificial Intelligence, Renmin University of China.
-- *09.2019-06.2023* B.E., School of Computer Science and Technology, Huazhong University of Science and Technology.
+- *09.2024-present* Ph.D. Candidate, Gaoling School of Artificial Intelligence, Renmin University of China.
+- *09.2020-06.2024* B.E., School of Computer Science, Beijing University of Posts and Telecommunications.
 
 Publications
 ============
 
-* (**First author**) "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25 Long Main**
-* (**First author**) "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24 Long Research**.
-* (**First author**) "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." **Information Sciences** (2025): 121915.
-* (**First author**) "Legal Document Generative Retrieval in Multi-Law-Code Scenarios" **TKDE under review**.
-* (**First author**) "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." Arxiv'24.
-* (**First author**) "Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey." Arxiv'24.
-* (**Co-first author**) "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent." Arxiv'24.
+* (**First author**) "Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation." **ACL'25 Long Main**
+* (**Fifth author**) "A Survey of Controllable Learning: Methods and Applications in Information Retrieval." **Frontiers of Computer Science (2025)**.
+* (**Co-First author**) "LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning." Submitted to EMNLP2025.
+* (**First author**) "FedSKU: Defending Backdoors in Federated Learning Through Selective Knowledge Unlearning" Arxiv'24.
 
   
+
+
+Honor & Awards
+==============
+
+Silver Medal, The 46th ICPC Asia Regional Contest (Shanghai), Nov 2021
+First Prize, The 13th The Chinese Mathematics Competitions , Oct 2021
+First-Class Scholarship in Beijing University of Posts and Telecommunications, 2020-2021
+Second-Class Scholarship in Beijing University of Posts and Telecommunications, 2021-2022
+Merit Student Scholarship in Beijing University of Posts and Telecommunications, 2020-2021 & 2021-2022
+
+Work Experience
+===============
+* **Tencent, WeChat group**: Research Intern
+  * February. 2024 ~ Now
 
 
 Teaching
 ========
 
-* Teaching Assistant, Retrieval and Recommendation in the Age of Artificial Intelligence, Spring 2024
-
-Honor
-=====
-
-* The First Award of Graduate Study Scholarship in Gaoling School of Artificial Intelligence, Renmin University of China
-* Outstanding Graduate in Huazhong University of Science and Technology
-* Honours Bachelor in Huazhong University of Science and Technology
-* National Scholarship for Undergraduate Students
-* National Encouragement scholarship in Huazhong University of Science and Technology
-* Merit Student Scholarship in Huazhong University of Science and Technology
+* Teaching Assistant, Introduction to Artificial Intelligence, Spring 2025

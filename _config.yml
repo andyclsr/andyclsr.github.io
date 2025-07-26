@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "Beijing, China"
-title                    : "Weicong Qin / Academic Profile"
+title                    : "Guofu Xie / Academic Profile"
 title_separator          : "-"
-name                     : &name "Weicong Qin"
+name                     : &name "Guofu Xie"
 description              : &description ""
-url                      : https://E-qin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andyclsr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "E-qin/E-qin.github.io"
+repository               : "andycslr/andyclsr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,8 +86,8 @@ author:
   location         : "Beijing China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=PhghkCYAAAAJ"
-  email            : "qwc@ruc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wDsUe4kAAAAJ"
+  email            : "guofuxie@ruc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "E-qin"
+  github           : "andyclsr"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0007-2904-9616"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
