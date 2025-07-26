@@ -31,11 +31,11 @@ Publications
 Honor & Awards
 ==============
 
-Silver Medal, The 46th ICPC Asia Regional Contest (Shanghai), Nov 2021
-First Prize, The 13th The Chinese Mathematics Competitions , Oct 2021
-First-Class Scholarship in Beijing University of Posts and Telecommunications, 2020-2021
-Second-Class Scholarship in Beijing University of Posts and Telecommunications, 2021-2022
-Merit Student Scholarship in Beijing University of Posts and Telecommunications, 2020-2021 & 2021-2022
+* Silver Medal, The 46th ICPC Asia Regional Contest (Shanghai), Nov 2021
+* First Prize, The 13th The Chinese Mathematics Competitions , Oct 2021
+* First-Class Scholarship in Beijing University of Posts and Telecommunications, 2020-2021
+* Second-Class Scholarship in Beijing University of Posts and Telecommunications, 2021-2022
+* Merit Student Scholarship in Beijing University of Posts and Telecommunications, 2020-2021 & 2021-2022
 
 Work Experience
 ===============
